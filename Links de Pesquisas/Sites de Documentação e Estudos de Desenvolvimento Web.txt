@@ -1,0 +1,7 @@
+HTML : https://developer.mozilla.org/pt-BR/docs/Web/HTML
+CSS : https://www.w3c.br/divulgacao/guiasreferencia/css2/
+MARKDOWN : https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open
+JavaScript : https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide
+Java : https://www.oracle.com/java/technologies/javase-documentation.html
+Git : https://git-scm.com/docs/git/pt_BR
+GitHub : https://docs.github.com/pt/pages
